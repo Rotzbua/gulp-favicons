@@ -23,7 +23,7 @@
     "gulpplugin"
   ],
   "engines": {
-    "node": ">=16.14.0"
+    "node": ">=18"
   },
   "author": "Hayden Bleasel <haydenbleasel@gmail.com>",
   "license": "ISC",
